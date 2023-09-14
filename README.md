@@ -2,14 +2,14 @@
 
 ## Overview
 
-We are seeking a capable developer to build a front-end application using either React or Next.js, combined with TypeScript. Your choice of framework should be based on your preference and expertise. The application should closely align with the designs found in this [Figma file](https://www.figma.com/file/hGBI3zpyHia5yrWsgeMP3K/Untitled?node-id=0%3A1&mode=dev). It is essential that the application utilizes Styled Components for styling.
+We are seeking a capable developer to build a front-end application using either React or Next.js, combined with TypeScript. Your choice of framework should be based on your preference and expertise. The application should closely align with the designs found in this [Figma file](https://www.figma.com/file/hGBI3zpyHia5yrWsgeMP3K/Untitled?node-id=0%3A1&mode=dev). It is essential that the application utilises Styled Components for styling.
 
 ## Technical Requirements
 
 ### General
 
 - The application must be developed using TypeScript.
-- Utilize Styled Components for styling the components in accordance with the Figma designs.
+- Utilise Styled Components for styling the components in accordance with the Figma designs.
 - We often find the need to make slight alterations to the designs - please use your best judgement to make the necessary adjustments, particularly adding a column for usernames.
 - Implement a search functionality that allows for searching payouts based on various criteria, including username. Please see the API Integration section for more details, and as above tweak the designs as you see fit.
 
