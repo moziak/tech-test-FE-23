@@ -36,7 +36,7 @@ You will be integrating with an existing API. Here are the details of the endpoi
 
    **Method:** GET
 
-   **Description:** This endpoint allows for searching payouts based on various criteria, including username. Implement a functionality that facilitates user search with a keen focus on optimizing the user experience whilst considering performance.
+   **Description:** This endpoint allows for searching payouts by username. Implement a functionality that facilitates user search with a keen focus on optimizing the user experience whilst considering performance.
 
 ## Evaluation Criteria
 
