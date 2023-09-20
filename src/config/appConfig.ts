@@ -1,0 +1,1 @@
+export const apiBaseUrl = process.env.BASE_URL ?? 'https://theseus-staging.lithium.ventures/api/v1/analytics/tech-test';
